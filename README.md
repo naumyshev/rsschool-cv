@@ -1,1 +1,1 @@
-[VC]: https://github.com/naumyshev/rsschool-cv/blob/gh-pages/VC.md
+[VC]: https://github.com/naumyshev/io/rsschool-cv/cv
