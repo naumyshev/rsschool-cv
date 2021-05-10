@@ -1,0 +1,1 @@
+[VC]: https://github.com/naumyshev/rsschool-cv/cv
